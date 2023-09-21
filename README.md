@@ -9,3 +9,6 @@ The goal of the project was to discover differentially expressed genes across th
 The replicates were selected according to three quality control parameters: RIN > 6, fraction of reads of rRNA < 0.1 and percentage of uniquely mapped reads > 85%. Normalization was performed with TMM (= trimmed mean of M values).
 
 Differential expression results were obtained by employing a generalized linear model and designing a contrast matrix to detect the genes overexpressed in each tissue versus the other two. Then, a functional enrichment analysis was perfomed to identify the most relevant functional annotations (Gene Ontology) with [Enrichr](https://maayanlab.cloud/Enrichr/).
+
+### Preview
+A preview of the markdown can be seen [here](https://htmlpreview.github.io/?https://github.com/saraovetto/Bulk-RNAseq/blob/main/BulkRNAseq.html)!
